@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3202c3df09ab31a448ce15034a691eee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - yourButton: {instanceID: 0}
+  - btn: {instanceID: 0}
+  - Go: {instanceID: 0}
+  - Stop: {instanceID: 0}
+  - Pause_Text_Score_Highest: {instanceID: 0}
+  - Pause_Text_Score_Now: {instanceID: 0}
+  - Pause_Mini_Screen_Color_0: {fileID: 3261086879468638744, guid: 30afa33d5d617454aa5c8b156b1e7921,
+      type: 3}
+  - Pause_Mini_Screen_Color_1: {fileID: 8342061208193632867, guid: 221a6a9ee08c81d409efd88e0c996475,
+      type: 3}
+  executionOrder: 300
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
